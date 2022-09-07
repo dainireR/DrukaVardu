@@ -1,2 +1,7 @@
 print("Pievieno koda rindu, kura izdrukās tavu vārdu!")
 print("Ernests")
+print("Anita")
+print("aluksssss")
+print("dairis")
+print("Reiniss")
+print("Justīne")
