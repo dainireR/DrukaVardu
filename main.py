@@ -1,5 +1,5 @@
 print("Pievieno koda rindu, kura izdrukās tavu vārdu!")
-
+print("Sergejs")
 print("Anita")
 
 print("aluksssss")
