@@ -11,6 +11,7 @@ print("aluksssss")
 print("dairis")
 print("Reiniss")
 print("Justīne")
+print("Dēvids")
 
 print("Daniels")
 
