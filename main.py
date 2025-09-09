@@ -1,3 +1,3 @@
-print("Pievieno koda rindu, kura izdrukās tavu vārdu!")
+print("Pievieno koda rindu, kura izdrukās kādu lietvārdu!")
 
 
